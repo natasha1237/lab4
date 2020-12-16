@@ -58,3 +58,39 @@ var n01 = new Element("01");
             n28.AddAdjacentEl(n29);
             n30.AddAdjacentEl(n29);
 ```
+## Пошук вершин
+![alt text](https://github.com/natasha1237/lab4/blob/main/1.png)
+### 1 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%842.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/2.png)
+### 2 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%843.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/3.png)
+### 3 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%844.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/4.png)
+### 4 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%845.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/5.png)
+### 5 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%846.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/6.png)
+### 6 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%847.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/7.png)
+### 7 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%848.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/8.png)
+### 8 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%849png.png)
+
+![alt text](https://github.com/natasha1237/lab4/blob/main/9.png)
+### 9 вершина з ознакою транзитності
+![alt text](https://github.com/natasha1237/lab4/blob/main/%D0%B3%D1%80%D0%B0%D1%8410.png)
