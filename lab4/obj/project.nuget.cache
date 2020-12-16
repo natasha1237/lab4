@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PufQGHwkTmGjYNictIid6H3Bf1yE/iXj3amLjKYyr0lTfFHCH+zz8QCgITHrGjBJH8z1j+nV94nTyuLY26K0OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\OneDrive\\Рабочий стол\\KPI IP-81\\3 курс 2020-21\\OS\\lab4\\lab4\\lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
